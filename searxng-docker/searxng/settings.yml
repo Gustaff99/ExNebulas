@@ -1,0 +1,27 @@
+# see https://docs.searxng.org/admin/engines/settings.html#use-default-settings
+
+name: exNebulas
+use_default_settings: true
+server:
+  # base_url is defined in the SEARXNG_BASE_URL environment variable, see .env and docker-compose.yml
+  secret_key: "60a597376ef3fd0d02af420583275ef235bcfaa7224f3504130911821f3cbc5d"  # change this!
+  limiter: true  # can be disabled for a private instance
+  image_proxy: true
+  method: "GET"
+ui:
+  static_use_hash: true
+  theme_args.simple_style: auto
+  query_in_title: false
+  default_theme: simple
+  theme_args:
+    simple_style: auto
+redis:
+  url: redis://redis:6379/0
+general:
+  debug: false
+  instance_name: "exNebulas"
+  contact_url: false
+  enable_metrics: true
+  donation_url: true
+search:
+  autocomplete: "duckduckgo"
