@@ -14,7 +14,7 @@ I am hosting an instance with the configuration displayed in this repository. Fe
 
 # Android App
 Additionally, I've developed an Android application that provides a straightforward web browser for your phone. This is an excellent alternative if you prefer to avoid using standard browsers like Google Chrome or Firefox for privacy reasons.
-You can find it here: [https://github.com/Gustaff99/ExNebulas-app](exnebulas-app).
+You can find it here: [exnebulas-app](https://github.com/Gustaff99/ExNebulas-app).
 
 ## App Features
 - **Simplified Browsing:** An intuitive, user-friendly interface.
@@ -43,7 +43,7 @@ Estoy manteniendo una instancia con la configuración presentada en este reposit
 
 # Aplicación para Android
 Además, he desarrollado una aplicación para Android que proporciona un navegador web sencillo para tu teléfono. Esta es una excelente alternativa si prefieres evitar el uso de navegadores comunes como Google Chrome o Firefox por razones de privacidad.
-Puedes encontrarla aqui [https://github.com/Gustaff99/ExNebulas-app](exnebulas-app).
+Puedes encontrarla aqui [exnebulas-app](https://github.com/Gustaff99/ExNebulas-app).
 
 ## Características de la App
 - **Navegación Simplificada:** Una interfaz de usuario intuitiva y fácil de usar.
